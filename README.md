@@ -1,2 +1,2 @@
 # projetos_fatecsjc
-Destinado para a organização dos meus projetos feitos na Fatec.
+Destinado para a organização dos projetos feitos em grupo na Fatec.
